@@ -1,6 +1,8 @@
 .holder{
 	display:flex;
 	flex-direction:row;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
 }
 .item{
 	padding:10px;
