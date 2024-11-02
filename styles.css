@@ -1,2 +1,10 @@
-
+.holder{
+	display:flex;
+	flex-direction:row;
+}
+.item{
+	padding:10px;
+	background-color:lightblue;
+	
+}
 /* Your CSS Code here. */
